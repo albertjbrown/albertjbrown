@@ -1,5 +1,5 @@
 - Hi, I’m @albertjbrown
-- I’m currently learning Python
+- I’m currently learning Python, Java, and HTML
 - Contact: albertjbrown28@gmail.com
 
 <!---
